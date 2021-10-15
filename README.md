@@ -4,7 +4,7 @@ In order to determine the number of retiring employees per title and identiify e
 
 # Results
 
-![alt text](https://github.com/Herbert-0820/School_District_Analysis/blob/main/Screen%20Shot%202021-09-24%20at%209.00.40%20PM.png)
+![alt text](https://github.com/Herbert-0820/Pewlett-Hacked_Analysis/blob/main/By%20title.jpg)
 
 32452 staff
 29415 Senior Engineer
